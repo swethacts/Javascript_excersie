@@ -19,9 +19,6 @@ Javascript_excersies
 
 **A:** It's on my website at <http://codingheroes.io/resources>. You can subscribe for updates ðŸ˜‰
 
-### Q5: What Brackets and VSCode themes are you using?
-
-**A:** I use the theme "OS X Style | Flat & Dark" in Brackets and "Oceanic Next (dimmed bg)" in VSCode. [Here is the complete setup](editors-setup.md).
 
 
 
